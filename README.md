@@ -11,8 +11,6 @@ A simple and efficient **Movie Ticket Booking Application** that allows users to
 - 🎟 Select seats with a real-time availability check.  
 - 💳 Secure booking and simulated payment gateway integration.  
 - 📜 Booking history and ticket confirmation receipt.  
-- 👩‍💻 Admin panel to add/manage movies and showtimes.  
-
 ---
 
 ## 🛠 Tech Stack  
@@ -23,14 +21,4 @@ A simple and efficient **Movie Ticket Booking Application** that allows users to
 
 ---
 
-## 📂 Project Structure  
-movie-ticket-booking-app/
-│── backend/ # Node.js + Express API
-│── frontend/ # UI files (HTML, CSS, JS or React)
-│── models/ # Database models
-│── routes/ # API routes
-│── config/ # DB config, environment variables
-│── README.md # Project documentation
-
----
 
